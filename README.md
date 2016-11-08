@@ -1,4 +1,4 @@
-# SmallCDN [![Build Status](https://travis-ci.org/SmallCDN/SmallCDN.svg?branch=master)](https://travis-ci.org/SmallCDN/SmallCDN)
+# SmallCDN [![Build Status](https://travis-ci.org/SmallCDN/core.svg?branch=master)](https://travis-ci.org/SmallCDN/SmallCDN)
 
 ### Adding your library
 To add your library, make a PR adding it to the repo following the file structure.
